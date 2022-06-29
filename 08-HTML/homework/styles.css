@@ -1,0 +1,16 @@
+h1 {color: olive;
+
+}
+
+img {
+    width: 400px;
+}
+
+#ThirdDiv { height: 600px;width: 500px;
+  background-color: mediumslateblue; 
+ padding: 50px; 
+border: 10px rgb(255, 187, 0) ridge; }
+#SpanDiv {font-size: 18px;
+margin: 50px;
+
+}
